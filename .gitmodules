@@ -1,0 +1,4 @@
+[submodule "MeuPrimeiroProjeto"]
+	path = MeuPrimeiroProjeto
+	url = https://github.com/nickvgs/FirstRepoCLI
+	branch = main
